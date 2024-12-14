@@ -22,11 +22,11 @@ Deep Learning Models:
 
 Best performing models by accuracy:
 
-BERT: 96.94%
-CNN: 96.68%
-SVM (Linear): 94.89%
-Logistic Regression: 94.13%
-XGBoost: 94.13%
-Decision Tree: 93.62%
-Random Forest: 92.35%
-Naive Bayes: 91.33%
+- BERT: 96.94%
+- CNN: 96.68%
+- SVM (Linear): 94.89%
+- Logistic Regression: 94.13%
+- XGBoost: 94.13%
+- Decision Tree: 93.62%
+- Random Forest: 92.35%
+- Naive Bayes: 91.33%
