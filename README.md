@@ -6,14 +6,14 @@ This project implements various machine learning models to detect spam comments 
 
 Traditional Machine Learning Models:
 
-Logistic Regression
-Support Vector Machine (with Linear, Polynomial, and RBF kernels)
-Decision Tree
-Random Forest
-Naive Bayes
-XGBoost
+- Logistic Regression
+- Support Vector Machine
+- Decision Tree
+- Random Forest
+- Naive Bayes
+- XGBoost
 
 Deep Learning Models:
 
-CNN with BERT tokenizer
-BERT (fine-tuned)
+- CNN with BERT tokenizer
+- BERT (fine-tuned)
